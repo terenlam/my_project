@@ -1,2 +1,2 @@
-whitespace errors
 commit guidelines
+whitespace errors      
